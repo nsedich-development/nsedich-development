@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 ## 💻 Top Skills
 <ul>
-  <li>Web Development</li>
-  <li>Back-End Web Development</li>
+  <li>General Web Development</li>
+  <li>Back-End Web Development (PHP / C# / .NET / Ismorphic Reactive Applications)</li>
   <li>Databases (Relational / NoSQL)</li>
   <li>Content Management Experience (WordPress, Drupal)</li>
   <li>Digital Transformation Strategy</li>
